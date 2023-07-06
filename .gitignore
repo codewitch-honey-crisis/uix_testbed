@@ -1,0 +1,11 @@
+/build
+/libgfx_drawing.a
+/libgfx_font.a
+/libgfx_image.a
+/libgfx_math.a
+/libgfx_open_font.a
+/libgfx_pixel.a
+/libgfx_svg_doc.a
+/libio_stream.a
+/libminiz.a
+/libpngle.a
